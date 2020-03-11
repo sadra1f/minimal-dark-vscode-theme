@@ -1,0 +1,21 @@
+{
+    "name": "minimal-dark-s1f",
+    "displayName": "Minimal Dark",
+    "description": "A dark theme inspired by Dark+",
+    "version": "0.1.2",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimal Dark-color-theme.json"
+            }
+        ]
+    }
+}
