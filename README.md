@@ -11,5 +11,5 @@ This theme is not yet available on Visual Studio Marketplace.
 * Copy to the extention directory.
     * On Windows: `%USERPROFILE%\.vscode\extensions`
     * On Mac: `$HOME/.vscode/extensions`
-* Restart the VSCode and choose `Material Dark` theme in `Preferences -> Color Theme`
+* Restart the VSCode and choose `Minimal Dark` theme in `Preferences -> Color Theme`
 
