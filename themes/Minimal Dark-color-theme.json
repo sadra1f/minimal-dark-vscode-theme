@@ -29,6 +29,7 @@
 
 		"list.inactiveSelectionBackground": "#252526",
 		"list.activeSelectionBackground": "#383838",
+		"list.hoverBackground": "#ffffff13",
 
 		"input.placeholderForeground": "#A6A6A6",
 
@@ -38,13 +39,15 @@
 		"menu.background": "#252526",
 		"menu.foreground": "#CCCCCC",
 
+		"notifications.background": "#0E0E0E",
+
 		"panel.background": "#1E1E1E",
 		"panel.border": "#383838",
 
 		"statusBar.background": "#252526",
 		"statusBar.noFolderBackground": "#252526",
 		"statusBar.debuggingBackground": "#007ACC",
-		"statusBarItem.hoverBackground": "#383838",
+		"statusBarItem.hoverBackground": "#ffffff13",
 		"statusBarItem.remoteForeground": "#FFF",
 		"statusBarItem.remoteBackground": "#16825D",
 

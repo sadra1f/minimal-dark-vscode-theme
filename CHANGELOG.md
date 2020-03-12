@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.4 - 2020-03-12
+- Improved hover colors.
+
 ## 0.1.3 - 2020-03-11
 - Changed panel color and border.
 

@@ -1,8 +1,8 @@
 {
     "name": "minimal-dark-s1f",
     "displayName": "Minimal Dark",
-    "description": "A dark theme inspired by Dark+",
-    "version": "0.1.3",
+    "description": "A dark theme for based on vscode theme-defaults.",
+    "version": "0.1.4",
     "engines": {
         "vscode": "^1.43.0"
     },
