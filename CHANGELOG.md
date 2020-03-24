@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.6 - 2020-03-24
+- Changed settings input colors.
+- Changed `welcomePage.buttonHoverBackground` color.
+- Added some new colors.
+
 ## 0.1.5 - 2020-03-14
 - Changed notification color.
 - Optimized theme for older versions of VSCode (1.31.0).
