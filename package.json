@@ -3,7 +3,9 @@
     "displayName": "Minimal Dark",
     "description": "A dark theme based on vscode theme-defaults.",
     "version": "0.1.6",
+    "publisher": "Sadra1f",
     "license": "SEE LICENSE IN LICENSE.md",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.31.0"
     },
