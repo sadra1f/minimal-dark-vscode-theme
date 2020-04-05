@@ -1,6 +1,6 @@
 # Minimal Dark
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/Sadra1f.minimal-dark-s1f.svg)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Installs](http://vsmarketplacebadge.apphb.com/installs/Sadra1f.minimal-dark-s1f.svg)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Rating](http://vsmarketplacebadge.apphb.com/rating-short/Sadra1f.minimal-dark-s1f.svg)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f)
+[![Version](https://vsmarketplacebadge.apphb.com/version/Sadra1f.minimal-dark-s1f.svg)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Installs](https://vsmarketplacebadge.apphb.com/installs/Sadra1f.minimal-dark-s1f.svg)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/Sadra1f.minimal-dark-s1f.svg)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f)
 
 A dark theme for Visual Studio Code based on vscode [theme-defaults](https://github.com/Microsoft/vscode/tree/master/extensions/theme-defaults).
 
