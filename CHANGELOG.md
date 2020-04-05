@@ -1,5 +1,11 @@
 # Change Log
 
+
+## 0.1.7 - 2020-04-05
+- Changed dropdown colors.
+- Changed checkbox colors.
+- Added some new colors to `Minimal Dark-color-theme.json`.
+
 ## 0.1.6 - 2020-03-24
 - Changed settings input colors.
 - Changed `welcomePage.buttonHoverBackground` color.
