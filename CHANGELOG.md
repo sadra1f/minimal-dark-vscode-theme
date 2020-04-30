@@ -1,6 +1,11 @@
 # Change Log
 
 
+## 0.1.8 - 2020-05-01
+- Breadcrumb and tab foreground colors are now a bit lighter.
+- Sidebar items are now a bit darker (Changed from `#D4D4D4` to `#BBBBBB`). 
+- Added `activityBar.activeFocusBorder` color (`#BBBBBB`).
+
 ## 0.1.7 - 2020-04-05
 - Changed dropdown colors.
 - Changed checkbox colors.
