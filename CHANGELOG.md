@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.1.9 - 2020-06-07
+- Changed list focus background and foreground.
+- Input and focus borders changed to `#383B3D`.
+- Changed input foreground from default color to `#BBBBBB`.
+- Widget shadows changed from default to `#141414`.
+- Added `foreground` color (`#D4D4D4`).
 
 ## 0.1.8 - 2020-05-01
 - Breadcrumb and tab foreground colors are now a bit lighter.
