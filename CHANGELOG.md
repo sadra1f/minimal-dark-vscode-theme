@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.10 - 2020-06-08
+- Fixed problem in showing `list.focusBackground` color (Changed to `#ffffff13`).
+
 ## 0.1.9 - 2020-06-07
 - Changed list focus background and foreground.
 - Input and focus borders changed to `#383B3D`.
