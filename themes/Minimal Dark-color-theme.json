@@ -13,6 +13,8 @@
 		"editorIndentGuide.activeBackground": "#707070",
 		"activityBar.background": "#252526",
 		"activityBar.foreground": "#FFF",
+		"activityBar.border": "#252526",
+		"activityBar.dropBorder": "#7c7c7d",
 		"activityBar.activeBackground": "#1E1E1E",
 		"activityBar.activeBorder": "#FFF",
 		"activityBar.activeFocusBorder": "#BBBBBB",
