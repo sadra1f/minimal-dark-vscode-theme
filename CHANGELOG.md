@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.1.11 - 2020-07-31
+- Added badge colors (foreground: `#D4D4D4`, background: `#383B3D`).
+- Added `contrastActiveBorder` and `contrastBorder` (`#00000000`).
+- Added `icon.foreground` (`#D4D4D4`).
+- Added secondary button colors. (But there is a problem: I don't know what a secondary button is yet :sweat_smile:)
+- Added scrollbar and progressbar colors.
+- Changed some input colors.
+- Changed all hover background and border colors.
+- Changed all drop colors.
+
 ## 0.1.10 - 2020-06-08
 - Fixed problem in showing `list.focusBackground` color (Changed to `#ffffff13`).
 
