@@ -14,9 +14,11 @@ A dark theme for Visual Studio Code based on vscode [theme-defaults](https://git
 3.  Search for **Minimal Dark**
 4.  Click **Install**
 
-You can select the theme in **Preferences** > **Color Theme** > **Minimal Dark**.
+You can select the theme in **Preferences** > **Color Theme** > **Minimal Dark**
 
-------------
+Read the [vsc-extension-quickstart.md](https://github.com/Sadra1f/minimal-dark-vscode-theme/blob/master/vsc-extension-quickstart.md) for manual installation.
+
+# 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Minimal Dark on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f)
