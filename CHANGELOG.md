@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.1.12 - 2020-09-11
+- Added editorWidget colors.
+- Editor line numbers and titlebar inactive texts are now a bit darker.
+- Changed text selection colors.
+- Changed menu colors.
+- Changed notification and welcome page button colors.
+- Changed some list background colors.
+- Removed secondary button colors
+
 ## 0.1.11 - 2020-07-31
 - Added badge colors (foreground: `#D4D4D4`, background: `#383B3D`).
 - Added `contrastActiveBorder` and `contrastBorder` (`#00000000`).
