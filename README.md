@@ -1,6 +1,6 @@
 # Minimal Dark
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Installs](https://img.shields.io/visual-studio-marketplace/i/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Rating](https://img.shields.io/visual-studio-marketplace/r/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Installs](https://img.shields.io/visual-studio-marketplace/i/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f) [![Rating](https://img.shields.io/visual-studio-marketplace/r/Sadra1f.minimal-dark-s1f?color=green&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f)
 
 A dark theme for Visual Studio Code based on vscode [theme-defaults](https://github.com/Microsoft/vscode/tree/master/extensions/theme-defaults).
 
