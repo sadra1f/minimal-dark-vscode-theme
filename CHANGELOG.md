@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.13 - 2020-09-27
+- Added status-bar foreground color.
+- Changed status-bar remote background color.
+
 ## 0.1.12 - 2020-09-11
 - Added editorWidget colors.
 - Editor line numbers and titlebar inactive texts are now a bit darker.

@@ -2,7 +2,7 @@
     "name": "minimal-dark-s1f",
     "displayName": "Minimal Dark",
     "description": "A dark theme based on vscode theme-defaults.",
-    "version": "0.1.12",
+    "version": "0.1.13",
     "publisher": "Sadra1f",
     "license": "SEE LICENSE IN LICENSE.md",
     "icon": "images/icon.png",
