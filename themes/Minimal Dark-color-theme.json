@@ -108,6 +108,7 @@
 		"panel.dropBorder": "#ffffff40",
 		"panelSection.dropBackground": "#ffffff16",
 		"statusBar.background": "#252526",
+		"statusBar.foreground": "#FFF",
 		"statusBar.noFolderBackground": "#252526",
 		"statusBar.debuggingBackground": "#007ACC",
 		"statusBarItem.hoverBackground": "#e3f2ff22",
