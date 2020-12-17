@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.14 - 2020-12-17
+- Added sash border color.
+- Changed extension button colors.
+
 ## 0.1.13 - 2020-09-27
 - Added status-bar foreground color.
 - Changed status-bar remote background color.
