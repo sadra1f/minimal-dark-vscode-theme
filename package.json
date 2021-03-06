@@ -27,6 +27,11 @@
                 "label": "Minimal Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Minimal Dark-color-theme.json"
+            },
+            {
+                "label": "Minimal Light",
+                "uiTheme": "vs",
+                "path": "./themes/Minimal Light-color-theme.json"
             }
         ]
     }
