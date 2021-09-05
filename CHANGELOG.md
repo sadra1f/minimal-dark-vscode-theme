@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.15 - 2021-09-05
+- Added terminal colors (based on [onehalf](https://github.com/sonph/onehalf) theme).
+- Change foreground color.
+
 ## 0.1.14 - 2020-12-17
 - Added sash border color.
 - Changed extension button colors.

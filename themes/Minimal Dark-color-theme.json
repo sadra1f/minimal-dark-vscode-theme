@@ -173,8 +173,6 @@
 		"terminal.ansiBrightMagenta": "#C678DD",
 		"terminal.ansiBrightRed": "#E06C75",
 		"terminal.ansiBrightYellow": "#E5C07B",
-		"terminal.selectionBackground": "#094f7e",
-		"terminalCursor.background": "#234d70",
 	},
 	"tokenColors": [
 		{
