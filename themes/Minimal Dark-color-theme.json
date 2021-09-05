@@ -155,7 +155,26 @@
 		// Title Bar
 		"titleBar.activeBackground": "#252526",
 		"titleBar.inactiveBackground": "#252526",
-		"titleBar.inactiveForeground": "#7c7c7d"
+		"titleBar.inactiveForeground": "#7c7c7d",
+		// Terminal
+		"terminal.ansiWhite": "#DCDFE4",
+		"terminal.ansiBlack": "#282C34",
+		"terminal.ansiBlue": "#61AFEF",
+		"terminal.ansiCyan": "#56B6C2",
+		"terminal.ansiGreen": "#98C379",
+		"terminal.ansiMagenta": "#C678DD",
+		"terminal.ansiRed": "#E06C75",
+		"terminal.ansiYellow": "#E5C07B",
+		"terminal.ansiBrightWhite": "#DCDFE4",
+		"terminal.ansiBrightBlack": "#5A6374",
+		"terminal.ansiBrightBlue": "#61AFEF",
+		"terminal.ansiBrightCyan": "#56B6C2",
+		"terminal.ansiBrightGreen": "#98C379",
+		"terminal.ansiBrightMagenta": "#C678DD",
+		"terminal.ansiBrightRed": "#E06C75",
+		"terminal.ansiBrightYellow": "#E5C07B",
+		"terminal.selectionBackground": "#094f7e",
+		"terminalCursor.background": "#234d70",
 	},
 	"tokenColors": [
 		{
