@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Sadra1f/minimal-dark-vscode-theme"
+        "url": "https://github.com/sadra1f/minimal-dark-vscode-theme"
     },
     "keywords": [
         "Theme",
@@ -29,5 +29,13 @@
                 "path": "./themes/Minimal Dark-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "build": "vsce package --out build/",
+        "login": "vsce login",
+        "publish": "vsce publish"
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^2.21.1"
     }
 }

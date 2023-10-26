@@ -1,5 +1,11 @@
 .vscode/**
 .vscode-test/**
+.build/**
+.node_modules/**
+.gitattributes
 .gitignore
+.yarnrc
 vsc-extension-quickstart.md
 index.html
+yarn-error.log
+yarn.lock
