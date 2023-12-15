@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[jsonc]": {
+    "editor.formatOnSave": true
+  },
+  "material-icon-theme.folders.associations": {
+    "dependencies": "lib"
+  }
+}

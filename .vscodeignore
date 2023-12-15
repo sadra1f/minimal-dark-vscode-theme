@@ -4,6 +4,7 @@
 .node_modules/**
 .gitattributes
 .gitignore
+.prettierignore
 .yarnrc
 vsc-extension-quickstart.md
 index.html
