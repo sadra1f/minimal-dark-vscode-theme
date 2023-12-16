@@ -1,10 +1,11 @@
 {
   "editor.wordWrapColumn": 100,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "npm.packageManager": "yarn",
   "[javascript]": {
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-      "source.organizeImports": true
+      "source.organizeImports": "explicit"
     }
   },
   "[json][jsonc]": {

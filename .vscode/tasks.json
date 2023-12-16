@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "isBackground": true,
+      "problemMatcher": {
+        "fileLocation": "relative",
+        "pattern": {
+          "regexp": ""
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "starting",
+          "endsPattern": "clean exit"
+        }
+      },
+      "label": "npm: dev"
+    },
+    {
+      "label": "postdebug",
+      "type": "process",
+      "command": ["${command:workbench.action.tasks.terminate}"]
+    }
+  ]
+}
