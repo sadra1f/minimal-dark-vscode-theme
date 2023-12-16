@@ -6,8 +6,7 @@ A minimal, dark theme for [Visual Studio Code](https://code.visualstudio.com/).
 
 ![Screenshot](images/screenshot-1.png)
 
-
-# Installation
+## Installation
 
 1.  Install and launch Visual Studio Code
 2.  Choose **Extensions** from menu
@@ -18,7 +17,7 @@ You can select the theme in **Preferences** > **Color Theme** > **Minimal Dark**
 
 Read the [vsc-extension-quickstart.md](https://github.com/Sadra1f/minimal-dark-vscode-theme/blob/master/vsc-extension-quickstart.md) for manual installation.
 
-# Icon Theme
+## Icon Theme
 
 The file icon theme seen in the screenshot is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
 
@@ -27,8 +26,7 @@ The file icon theme seen in the screenshot is [Material Icon Theme](https://mark
   "material-icon-theme.folders.theme": "specific",
 ```
 
-# 
+##
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Minimal Dark on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f)
-
