@@ -8,6 +8,5 @@ src/**
 .prettierignore
 .yarnrc
 vsc-extension-quickstart.md
-index.html
 yarn-error.log
 yarn.lock
