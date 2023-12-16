@@ -130,7 +130,6 @@ dist
 .pnp.*
 
 # Others
-build/**/*
-!build/.gitkeep
+themes/
 *.vsix
 ._*

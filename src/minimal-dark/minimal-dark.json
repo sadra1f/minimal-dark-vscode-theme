@@ -3,7 +3,6 @@
   "name": "Minimal Dark",
   "include": "../dependencies/dark_vs.json",
   "colors": {
-    // Base
     "contrastActiveBorder": "#00000000",
     "contrastBorder": "#00000000",
     "focusBorder": "#383B3D",
@@ -12,7 +11,6 @@
     "icon.foreground": "#DCDFE4",
     "welcomePage.background": "#1E1E1E",
 
-    // Editor, Activity Bar and Tabs
     "editor.background": "#1E1E1E",
     "editor.foreground": "#DCDFE4",
     "editor.inactiveSelectionBackground": "#103c57",
@@ -48,7 +46,6 @@
     "tab.unfocusedHoverBackground": "#1E1E1E",
     "tab.unfocusedHoverBorder": "#1E1E1E",
 
-    // Editor Widget
     "editorWidget.background": "#252526",
     "editorWidget.border": "#383B3D",
     "editorWidget.foreground": "#DCDFE4",
@@ -57,21 +54,17 @@
     "editorHoverWidget.background": "#252526",
     "debugExceptionWidget.background": "#252526",
 
-    // Badge
     "badge.background": "#383B3D",
     "badge.foreground": "#DCDFE4",
 
-    // Debug
     "debugToolBar.background": "#252526",
 
-    // Breadcrumb
     "breadcrumb.background": "#1E1E1E",
     "breadcrumb.foreground": "#BBBBBB",
     "breadcrumb.activeSelectionForeground": "#FFF",
     "breadcrumb.focusForeground": "#ebebeb",
     "breadcrumbPicker.background": "#252526",
 
-    // Side Bar
     "sideBar.background": "#1E1E1E",
     "sideBar.border": "#1E1E1E",
     "sideBar.foreground": "#BBBBBB",
@@ -81,7 +74,6 @@
     "sideBarSectionHeader.border": "#1E1E1E",
     "sideBar.dropBackground": "#ffffff16",
 
-    // List
     "list.inactiveSelectionBackground": "#252526",
     "list.activeSelectionBackground": "#e3f2ff22",
     "list.activeSelectionForeground": "#FFF",
@@ -91,7 +83,6 @@
     "list.focusBackground": "#ffffff14",
     "list.focusForeground": "#FFF",
 
-    // Input
     "input.placeholderForeground": "#A6A6A6",
     "input.border": "#383B3D",
     "input.foreground": "#BBBBBB",
@@ -102,16 +93,13 @@
     "inputValidation.errorForeground": "#DCDFE4",
     "inputValidation.errorBorder": "#b00000",
 
-    // Scrollbar
     "scrollbar.shadow": "#00000060",
     "scrollbarSlider.background": "#e3f2ff22",
     "scrollbarSlider.hoverBackground": "#e3f2ff34",
     "scrollbarSlider.activeBackground": "#e3f2ff44",
 
-    // Progress Bar
     "progressBar.background": "#007ACC",
 
-    // Settings
     "settings.textInputBackground": "#383838",
     "settings.numberInputBackground": "#383838",
     "settings.dropdownBackground": "#383838",
@@ -121,7 +109,6 @@
     "settings.checkboxBorder": "#383838",
     "settings.checkboxForeground": "#DCDFE4",
 
-    // Menu
     "menubar.selectionBackground": "#e3f2ff22",
     "menubar.selectionForeground": "#ebebeb",
     "menu.background": "#252526",
@@ -130,21 +117,17 @@
     "menu.selectionForeground": "#ebebeb",
     "menu.separatorBackground": "#7c7c7d",
 
-    // Extensions
     "extensionButton.prominentBackground": "#0e639c",
     "extensionButton.prominentHoverBackground": "#1177bb",
 
-    // Notifications
     "notificationCenterHeader.background": "#252526",
     "notifications.background": "#181818",
 
-    // Panel
     "panel.background": "#1E1E1E",
     "panel.border": "#383838",
     "panel.dropBorder": "#ffffff40",
     "panelSection.dropBackground": "#ffffff16",
 
-    // Status Bar
     "statusBar.background": "#252526",
     "statusBar.foreground": "#FFF",
     "statusBar.noFolderBackground": "#252526",
@@ -153,7 +136,6 @@
     "statusBarItem.remoteForeground": "#FFF",
     "statusBarItem.remoteBackground": "#007ACC",
 
-    // Inputs and Buttons
     "button.background": "#383838",
     "button.foreground": "#FFF",
     "button.hoverBackground": "#ffffff28",
@@ -166,15 +148,12 @@
     "checkbox.border": "#383838",
     "checkbox.foreground": "#DCDFE4",
 
-    // Minimap
     "minimap.background": "#1E1E1E",
 
-    // Title Bar
     "titleBar.activeBackground": "#252526",
     "titleBar.inactiveBackground": "#252526",
     "titleBar.inactiveForeground": "#7c7c7d",
 
-    // Terminal
     "terminal.ansiWhite": "#DCDFE4",
     "terminal.ansiBlack": "#282C34",
     "terminal.ansiBlue": "#61AFEF",
@@ -202,8 +181,6 @@
       }
     },
 
-    // Taken from dependencies
-    // Read dependencies/README.md
     {
       "name": "Function declarations",
       "scope": [
@@ -211,7 +188,7 @@
         "support.function",
         "support.constant.handlebars",
         "source.powershell variable.other.member",
-        "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
+        "entity.name.operator.custom-literal"
       ],
       "settings": {
         "foreground": "#DCDCAA"
@@ -293,7 +270,7 @@
         "meta.definition.variable.name",
         "support.variable",
         "entity.name.variable",
-        "constant.other.placeholder" // placeholders in strings
+        "constant.other.placeholder"
       ],
       "settings": {
         "foreground": "#9CDCFE"

@@ -31,7 +31,10 @@
     ]
   },
   "scripts": {
+    "dev": "nodemon --watch src src/generate.js",
+    "generate": "node src/generate.js",
     "package": "vsce package --out dist/",
+    "build": "run-s generate package",
     "login": "vsce login",
     "publish": "vsce publish",
     "format": "prettier --write src/"
