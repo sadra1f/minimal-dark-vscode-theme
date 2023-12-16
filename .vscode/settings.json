@@ -1,6 +1,13 @@
 {
+  "editor.wordWrapColumn": 100,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[jsonc]": {
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[json][jsonc]": {
     "editor.formatOnSave": true
   },
   "material-icon-theme.folders.associations": {

@@ -33,9 +33,11 @@
     "scripts": {
         "build": "vsce package --out build/",
         "login": "vsce login",
-        "publish": "vsce publish"
+        "publish": "vsce publish",
+        "format": "prettier --write {scripts,themes}/"
     },
     "devDependencies": {
-        "@vscode/vsce": "^2.21.1"
+        "@vscode/vsce": "^2.21.1",
+        "prettier": "^3.1.1"
     }
 }
