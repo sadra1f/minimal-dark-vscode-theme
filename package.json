@@ -1,43 +1,45 @@
 {
-    "name": "minimal-dark-s1f",
-    "displayName": "Minimal Dark",
-    "description": "A dark theme based on vscode theme-defaults.",
-    "version": "0.1.15",
-    "publisher": "Sadra1f",
-    "license": "SEE LICENSE IN LICENSE.md",
-    "icon": "images/icon.png",
-    "engines": {
-        "vscode": "^1.31.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/sadra1f/minimal-dark-vscode-theme"
-    },
-    "keywords": [
-        "Theme",
-        "Dark Theme",
-        "Night Theme"
-    ],
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Minimal Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Minimal Dark-color-theme.json"
-            }
-        ]
-    },
-    "scripts": {
-        "build": "vsce package --out build/",
-        "login": "vsce login",
-        "publish": "vsce publish",
-        "format": "prettier --write {scripts,themes}/"
-    },
-    "devDependencies": {
-        "@vscode/vsce": "^2.21.1",
-        "prettier": "^3.1.1"
-    }
+  "name": "minimal-dark-s1f",
+  "displayName": "Minimal Dark",
+  "description": "A dark theme based on vscode theme-defaults.",
+  "version": "0.1.15",
+  "publisher": "Sadra1f",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadra1f/minimal-dark-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal Dark-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --out dist/",
+    "login": "vsce login",
+    "publish": "vsce publish",
+    "format": "prettier --write src/"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.21.1",
+    "nodemon": "^3.0.2",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^3.1.1"
+  }
 }
